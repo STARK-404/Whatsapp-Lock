@@ -36,7 +36,7 @@ cd Wp-Lock
 pip install -r requirements.txt
 python Run.py
 ```
-#Trail
+# Trail
 For trail Join :  https://t.me/wpvenom
 
 ## Windows

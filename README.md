@@ -88,8 +88,8 @@ For trail Join :  https://t.me/wpvenom
 
 # Reach Me!
 <a href="https://github.com/STARK-404/"><img title="Github" src="https://img.shields.io/badge/STARK-404-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://www.instagram.com/la1uuuuu/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<img src="https://img.shields.io/twitter/follow/Lalkrishna6314?logo=twitter&r&style=for-the-badge" alt="Lalkrishna6314" />
+<a href="https://www.instagram.com//" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<img src="https://img.shields.io/twitter/follow/sta4rK_404?logo=twitter&r&style=for-the-badge" alt="st4rK_404" />
 <div id='badge'>
 
 Telegram: https://t.me/wpvenom

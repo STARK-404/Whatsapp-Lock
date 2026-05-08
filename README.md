@@ -5,7 +5,10 @@
 - Unlimited Lock
 - Lock Any Country Numbers
 - Life Time Access
-- 
+
+# Update
++ Fixed crashing Issue on windows
+
 # Description
 It's a Simple Wp-venom  For restrict From  WhatsApp login.When You L0ck A number With this Tool They can't Login / They Cant Request For Otp
 Otp-lock

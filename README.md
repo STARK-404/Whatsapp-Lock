@@ -27,7 +27,9 @@ sudo apt upgrade
 sudo apt install git nodejs npm python-pip
 git clone https://github.com/STARK-404/Whatsapp-Lock
 cd Wp-Lock
+chmod +x *
 pip install -r requirements.txt
+bash install.sh
 python Run.py
 ```
 ## Termux
@@ -37,8 +39,11 @@ pkg upgrade
 pkg install git nodejs python
 git clone https://github.com/STARK-404/Whatsapp-Lock
 cd Wp-Lock
+chmod +x *
 pip install -r requirements.txt
+bash install.sh
 python Run.py
+
 ```
 # Trail
 For trail Join :  https://t.me/wpvenom

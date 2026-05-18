@@ -5,6 +5,8 @@ if [[ -n "$TERMUX_VERSION" ]]; then
         clear
         pkg update
         pkg install python3 nodejs -y
+        pkg install nodejs-lts python make clang pkg-config libc++ git -y
+        pkg install libjpeg-turbo libpng libwebp libtiff littlecms fftw libxml2 glib -y
         pip install rich 
         npm install 
         python3 Run.py

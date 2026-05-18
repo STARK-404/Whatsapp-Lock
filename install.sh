@@ -8,7 +8,7 @@ if [[ -n "$TERMUX_VERSION" ]]; then
         pkg install nodejs-lts python make clang pkg-config libc++ git -y
         pkg install libjpeg-turbo libpng libwebp libtiff littlecms fftw libxml2 glib -y
         pip install rich 
-        npm install 
+        npm install --ignore-scripts
         python3 Run.py
 elif [[ -f "/data/data/com.termux/files/usr/bin/bash" ]]; then
         clear

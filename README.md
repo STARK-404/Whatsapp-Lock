@@ -3,6 +3,7 @@
 
 ## About
 - Unlimited Lock
+- Instant Lock
 - Lock Any Country Numbers
 - Life Time Access
 

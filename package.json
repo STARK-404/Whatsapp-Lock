@@ -10,7 +10,7 @@
   "author": "STARK-404",
   "license": "ISC",
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.4.0",
+    "@justry/testbaileys": "^6.3.0",
     "cli-loading-animation": "^1.0.6",
     "express": "^4.18.3",
     "gradient-string": "^2.0.2",

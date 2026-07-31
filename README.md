@@ -14,6 +14,7 @@
 It's a Simple Wp-venom  For restrict From  WhatsApp login.When You L0ck A number With this Tool They can't Login / They Cant Request For Otp
 Otp-lock
 
+
 # Tutorial
 
 Youtube Tutorial : https://youtu.be/MCjoWd45UjU?si=vFmc4Zym3kpcdyoP
